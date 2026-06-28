@@ -107,8 +107,8 @@ Graph-based maze solving application using DFS and BFS algorithms.
 ## 📫 Connect with Me
 
 - 📧 addagirispoorthi@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- 🌐 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/addagiri-spoorthi-8a6ab1334/)
+- 🌐 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/addagirigopikaspurthi)
 
 ---
 
